@@ -47,9 +47,10 @@ print("The R Matrix is\n",r)
 ```
 
 ## Output
-```
-<img width="1919" height="898" alt="Screenshot 2025-12-27 140330" src="https://github.com/user-attachments/assets/65cd06ec-8945-41eb-9a1b-70c46261f70c" />
-```
+
+<img width="1919" height="898" alt="Screenshot 2025-12-27 140330" src="https://github.com/user-attachments/assets/484fd43e-41aa-485d-9800-246c70fd59e4" />
+
+
 
 ## Result
 Thus the QR decomposition algorithm using the Gram-Schmidt process is written and verified the result.
